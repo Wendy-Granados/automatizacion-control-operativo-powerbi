@@ -1,4 +1,4 @@
-# automatizacion-control-operativo-powerbi
+# Automatización control operativo PowerBI
 Automatización de un proceso de control operativo mediante Power BI, utilizando transformación de datos, reglas de negocio y medidas DAX para detectar incidencias en declaraciones.
 
 # Detección automatizada de declaraciones y arqueos de caja
@@ -177,7 +177,7 @@ El análisis manual presentaba dificultades para:
 
 Diseñar e implementar un dashboard en Power BI capaz de analizar automáticamente los movimientos transaccionales y detectar casos que requieren revisión, permitiendo consultar los indicadores generales y posteriormente desglosar cada caso hasta el empleado, sucursal y movimientos involucrados
 
-# 02 Proceso de análisis de datos
+# 02. Proceso de análisis de datos
 
 FUENTES DE DATOS
        ↓
@@ -414,7 +414,7 @@ Detalle
 
 La selección de un indicador permite profundizar en los casos identificados y consultar los movimientos asociados para facilitar la validación operativa.
 
-# 08 Resultados y mejoras
+# 08. Resultados y mejoras
 
 ### 8.1 Resultados e impacto
 
@@ -431,7 +431,7 @@ porcentaje de casos que requirieron revisión.
 
 La automatización permitió transformar una revisión manual de aproximadamente X horas diarias en un proceso de monitoreo mediante indicadores y filtros interactivos.
 
-###Mejoras futuras
+### Mejoras futuras
 
 Automatización de actualización.
 Alertas automáticas.
@@ -443,14 +443,14 @@ Notificaciones.
 Integración con otras fuentes.
 Automatización completa del ETL.
 
- #09 Limitaciones
+# 09. Limitaciones
 
 La clasificación depende de la calidad de los datos de origen.
 Las reglas identifican indicadores de riesgo, no confirman irregularidades.
 La interpretación de los movimientos depende de la correcta clasificación de bloques.
 Se requiere validar las reglas ante cambios en el proceso operativo.
 
-#10 Tecnologías
+# 10. Tecnologías
 
 Power BI
 Power Query
